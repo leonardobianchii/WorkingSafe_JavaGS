@@ -18,7 +18,7 @@ O projeto atende plenamente os requisitos do módulo **Java Advanced**.
 
 ---
 
-# 📂 Estrutura do Projeto (Atualizada)
+# 📂 Estrutura do Projeto
 
 Com base nas pastas reais do repositório:
 
@@ -123,7 +123,7 @@ Arquivos em:
 
 ```
 /i18n/messages.properties
-/i18n/messages_en.properties
+
 ```
 
 Suporte: **pt-BR** e **en-US** automaticamente.
